@@ -3,4 +3,4 @@
 3
 4
 5
-Cambio tercera version, no generarà conflictos.
+Cambio para la sexta version, este cambio generarà conflictosCambio tercera version, no generarà conflictos.
